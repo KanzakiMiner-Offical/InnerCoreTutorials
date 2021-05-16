@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Dễ học',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Chúng tôi cố gắng soạn các hướng dẫn một cách dễ hiểu nhất
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Hỗ trợ cộng đồng',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Chúng tôi có một máy chủ Discord để giúp các bạn giải quyết vấn đề trong khi học
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'By player for player',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Các hướng dẫn, bài học đều được soạn bới các người chơi có kinh nghiệm lập trình
       </>
     ),
   },
