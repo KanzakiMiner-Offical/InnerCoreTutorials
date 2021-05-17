@@ -66,7 +66,7 @@ module.exports = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} InnerCore Tutorials. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} B3ta Team. Built with Docusaurus.`,
         },
     },
     presets: [
@@ -77,13 +77,13 @@ module.exports = {
                     sidebarPath: require.resolve("./sidebars.js"),
                     // Please change this to your repo.
                     editUrl:
-                        "https://github.com/facebook/docusaurus/edit/master/website/",
+                        "https://github.com/B3taTeam/InnerCoreTutorials/",
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     editUrl:
-                        "https://github.com/facebook/docusaurus/edit/master/website/blog/",
+                        "https://github.com/B3taTeam/InnerCoreTutorials",
                 },
                 theme: {
                     customCss: require.resolve("./src/css/custom.css"),
