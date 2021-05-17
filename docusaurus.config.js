@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
     title: "InnerCore Tutorials",
-    tagline: "Học làm mod trên Minecraft Bedrock Edition",
+    tagline: "Học làm mod cho Minecraft Bedrock Edition",
     url: "https://your-docusaurus-test-site.com",
     baseUrl: "/",
     onBrokenLinks: "throw",
