@@ -43,3 +43,8 @@ Ví dụ
 IDRegistry.genItemID("testItem");
 Item.createItem("testItem", "test item", {name: "stick", meta: 0}, {}); // name: là tên của texture lúc nãy, meta thì luôn để 0
 ```
+
+## Video
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/au1ckDM8tjo">
+</iframe>

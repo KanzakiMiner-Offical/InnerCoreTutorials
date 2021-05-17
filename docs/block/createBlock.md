@@ -2,7 +2,7 @@
 side_position: 1
 ---
 
-# Tạo block
+# Cách tạo block
 
 Tương tự với tạo Item đầu tiên phải:
 ## Khai báo id của Block 
@@ -48,3 +48,8 @@ Ví dụ
 
  IDRegistry.genItemID ("bucket");
  Item.createItem ("bucket", "Bucket Of Clear Water", {name: "bucketwater", meta: 0}, {stack: 1});
+
+## Video
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/-QtsnCwsJzg">
+</iframe>
