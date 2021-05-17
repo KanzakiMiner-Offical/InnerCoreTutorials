@@ -44,6 +44,7 @@ Ví dụ
  Block.createBlock ("heavyEngineer", [{name: "Heavy Engineering Block", texture: [["heavy_engineering_0", 0]], inCreative: true}]); // name: là tên của texture lúc nãy, meta thì luôn để 0
 ```
 *Lưu ý: Nếu không viết thêm {stack: 64} thì mặc định là 64 
+
 *Custom Stack:
 
  IDRegistry.genItemID ("bucket");
