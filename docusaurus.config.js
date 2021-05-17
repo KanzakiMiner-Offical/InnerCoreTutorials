@@ -23,7 +23,7 @@ module.exports = {
                     position: "left",
                     label: "Hướng dẫn",
                 },
-                { to: "/blog", label: "Blog", position: "left" },
+                { to: "/blog", label: "Bài viết", position: "left" },
                 {
                     href: "https://github.com/B3taTeam/InnerCoreTutorials",
                     label: "GitHub",
@@ -56,7 +56,7 @@ module.exports = {
                     title: "Khác",
                     items: [
                         {
-                            label: "Blog",
+                            label: "Bài viết",
                             to: "/blog",
                         },
                         {
@@ -77,13 +77,13 @@ module.exports = {
                     sidebarPath: require.resolve("./sidebars.js"),
                     // Please change this to your repo.
                     editUrl:
-                        "https://github.com/B3taTeam/InnerCoreTutorials/edit/main/docs",
+                        "https://github.com/B3taTeam/InnerCoreTutorials/edit/main/",
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     editUrl:
-                        "https://github.com/B3taTeam/InnerCoreTutorials/edit/main/blog",
+                        "https://github.com/B3taTeam/InnerCoreTutorials/edit/main/",
                 },
                 theme: {
                     customCss: require.resolve("./src/css/custom.css"),
